@@ -10,7 +10,7 @@ package sudoku;
      * @see Grid
      */
     import java.io.*;
-    import java.util.*;
+    import java.util.*; 
 
     public class SudokuSolver {
         public static void main(String[] args) throws Exception {
