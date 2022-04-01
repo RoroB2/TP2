@@ -65,7 +65,7 @@ package sudoku;
                     grid.clear(loc);
                 }
             }
-        }
+        } 
 
         private static void printSolutions(Grid grid,List<Grid> solutions) {
             // Print the grid with the givens
